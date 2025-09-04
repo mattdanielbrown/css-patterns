@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "chai": "^2.3.0",
-    "gh-pages": "^0.3.0",
+    "gh-pages": "^6.3.0",
     "mocha": "^2.2.5",
     "node-sass": "^3.1.1",
     "sassdoc": "^2.1.11"
